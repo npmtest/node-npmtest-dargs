@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [dargs (v5.1.0)](https://github.com/sindresorhus/dargs#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-dargs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dargs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dargs.svg)](https://travis-ci.org/npmtest/node-npmtest-dargs)",
+    "description": "#### basic test coverage for  [dargs (v5.1.0)](https://github.com/sindresorhus/dargs#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-dargs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-dargs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-dargs.svg)](https://travis-ci.org/npmtest/node-npmtest-dargs)",
     "devDependencies": {
         "dargs": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
